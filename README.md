@@ -1,4 +1,5 @@
-random-kitten-image-generator
+random-steven-segal-image-generator
 =============================
-jQuery project
-Triggered by a mouse-over event, renders a new image, from placekitten, based on randomly generated image dimensions.
+Adapted from PK Bank's (https://github.com/pkbanks) random kitten image generator.
+
+Uses AJAX to display random images of Steven Segal
